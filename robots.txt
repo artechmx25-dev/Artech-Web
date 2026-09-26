@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://artechmx25-dev.github.io/Artech-Web/sitemap.xml
